@@ -1,5 +1,9 @@
+beautifulsoup4==4.12.3
 fastapi==0.115.6
 numpy==2.2.0
 pandas==2.2.3
 pydantic==2.10.3
+Requests==2.32.3
 scikit_learn==1.4.1.post1
+streamlit==1.40.2
+streamlit_echarts==0.4.0
